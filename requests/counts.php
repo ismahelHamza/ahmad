@@ -1,0 +1,1 @@
+<?php require_once("../includes/init.php");  echo counts($_SESSION['userid']); ?>
